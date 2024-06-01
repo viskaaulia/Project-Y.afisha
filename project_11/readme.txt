@@ -1,1 +1,0 @@
-Link ke tableau : https://public.tableau.com/app/profile/viska.aulia/viz/TrendingVideos_16872718890510/Dashboard1?publish=yes
