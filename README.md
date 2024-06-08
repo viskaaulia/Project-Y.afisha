@@ -5,7 +5,7 @@ These projects were completed from TripleTen's Data Analyst professional trainin
 | Project name | Description | Libraries used | 
 | :---------------------- | :---------------------- | :---------------------- |
 | [Project 1: Music Company Analysis](Project_01) | Compared the music preferences of users in the cities of Springfield and Shelbyville. | *pandas* |
-| [Project 2: Banking Company Analysis](Project_02.credit_scoring_eng) | Analyze the influence of a customer's marital status and the number of children he has on the probability of default in loan repayment. | *pandas* |
+| [Project 2: Banking Company Analysis](project_02) | Analyze the influence of a customer's marital status and the number of children he has on the probability of default in loan repayment. | *pandas* |
 | [Project 3: Car Company Analysis](Project_03.vehicles.us) | Analyze data sets over the past few years and determine the factors that influence the price of a vehicle. | *pandas*, *matplotlib* |
 | [Project 4: Telecommunication Company Analysis](Project_04.megaline) |analyze which prepaid packages from surf data packages and ultimate data packages generate more revenue to the company to create an advertising budget that can benefit the company | *pandas*, *matplotlib*, *seaborn*, *numpy*, *scipy* |
 | [Project 5: Game Company Analysis](Project_05.games) | Identifying patterns that determine whether a game can be said to be successful or not and finding games that have the most potential to increase sales to be able to plan advertising campaigns. | *pandas*, *matplotlib*, *seaborn*, *numpy*, *scipy* |
